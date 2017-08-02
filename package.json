@@ -1,0 +1,30 @@
+{
+  "bin": {
+    "activity": "index.js"
+  },
+  "name": "create-activity",
+  "version": "1.0.0",
+  "description": "activity quick create!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolyshaw/create-activity.git"
+  },
+  "keywords": [
+    "ca"
+  ],
+  "author": "wolyshaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolyshaw/create-activity/issues"
+  },
+  "homepage": "https://github.com/wolyshaw/create-activity#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "yargs": "^8.0.2"
+  }
+}
